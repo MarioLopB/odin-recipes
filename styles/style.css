@@ -7,6 +7,12 @@ body {
     background-color: aquamarine;
 }
 
+li,
+a,
+p {
+    font-size: 18px;
+}
+
 p {
     font-family: 'Courier New', Courier, monospace;
 }
