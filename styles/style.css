@@ -1,0 +1,23 @@
+img {
+    height: auto;
+    width: 400px;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+h2 {
+    color: rgb(1, 59, 174);
+}
+
+#main {
+    font-weight: bold;
+    background-color: rgb(51, 195, 220);
+    font-size: 50px;
+}
