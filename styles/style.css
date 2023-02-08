@@ -5,6 +5,7 @@ img {
 
 body {
     background-color: aquamarine;
+    padding: 200px;
 }
 
 li,
@@ -26,4 +27,6 @@ h2 {
     font-weight: bold;
     background-color: rgb(51, 195, 220);
     font-size: 50px;
+    text-align: center;
+    padding: auto;
 }
